@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-color: rgb(220, 214, 226);
+    font-family:'Courier New', Courier, monospace ;
+  }
+  table, th, td{
+    font-family:'Courier New', Courier, monospace ;
+    border: 2px solid black;
+    background-color: rgb(85, 179, 85);
+    padding: 2px;
+  }
+  .btn{
+    padding: 2px 7px;
+  }
+ header{
+  background-color: rgb(255, 102, 0);
+ }
+  
+  #container {
+    height: 400px;
+    top: 50px;
+  }
+  
+  
+  
+  
